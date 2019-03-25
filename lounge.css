@@ -1,0 +1,15 @@
+.guarantee{
+  line-height: 2em;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: cyan;
+  border-color: chartreuse;
+  border-width:3px;
+  border-style: solid;
+  background-color: chocolate;
+  padding: 30px;
+  margin: 30px;
+  background-repeat: no-repeat;
+  background-position: top left;
+  
+}
