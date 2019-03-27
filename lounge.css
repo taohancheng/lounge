@@ -11,5 +11,9 @@
   margin: 30px;
   background-repeat: no-repeat;
   background-position: top left;
-  
+}
+.elixirs{
+  border-width: 3px;
+  border-style: groove;
+  border-color: darkgreen;
 }
