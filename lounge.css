@@ -2,13 +2,15 @@
   line-height: 2em;
   font-style: italic;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: cyan;
+  color: black;
   border-color: chartreuse;
   border-width:3px;
   border-style: solid;
-  background-color: chocolate;
-  padding: 30px;
+  background-color: aqua;
+  padding: 40px;
   margin: 30px;
+  border-radius: 55px;
+  background-image: url(images/background.gif);
   background-repeat: no-repeat;
   background-position: top left;
 }
@@ -24,4 +26,5 @@
   text-align: center;
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+  float: right;
 }
